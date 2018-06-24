@@ -74,7 +74,7 @@
        <repository>
          <id>webservice-encontei</id>
          <name>webservice-encontei</name>
-         <url>file://E:/workspace/web-server-encontrei</url>
+         <url>file:///home/alison_jhonas15/web-server-encontrei</url>
        </repository>
    </distributionManagement>
 </project>
